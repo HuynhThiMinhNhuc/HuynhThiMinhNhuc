@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Minh Nhuc
 - 👀 I’m interested in travelling everywhere
-- 🌱 I’m currently learning in University Information Technology
-- 💞️ I’m looking to collaborate on mobileapp, webapp
+- 🌱 I’m currently learning in University of Information Technology
+- 💞️ I’m looking to collaborate on mobileapp
 - 📫 Contact me by huynhthiminhnhuc@gmail.com
 
 <!---
